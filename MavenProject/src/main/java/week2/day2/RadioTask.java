@@ -10,7 +10,7 @@ public class RadioTask {
 	
 public static void main(String[] args) {
 		
-		//Browser launch
+		//Browser launching
 		ChromeDriver driver =new ChromeDriver();
 		
 		//URl lunch
